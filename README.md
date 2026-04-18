@@ -17,7 +17,7 @@ We combine structured EHR data, clinical notes, and imaging features to improve 
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/nico9902/INSPECT-CS.git
+git clone https://github.com/arco-group/INSPECT-CS.git
 cd INSPECT-CS
 pip install -r requirements.txt
 ```
